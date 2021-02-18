@@ -3,6 +3,12 @@
   margin: auto;
   text-align: center;
 }
+.photo-world {
+  margin-left: 500px;
+  background-size: cover;
+}
 * {
-  background-color: chartreuse;
+  margin: auto;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
